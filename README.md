@@ -1,2 +1,2 @@
-# Employee_Attrion_Factor_Analysis
+# Employee Attrion Factor Analysis
 'Employee Attrition' is currently one of the most pressing concerns organizations face in terms of human resource management. Employee attrition occurs when employees leave the organization voluntarily or retire, resulting in an unexpected downsizing of the company. Considering employees are the organization's backbone, the company's performance is greatly influenced by the employee's quality. Employee attrition has serious consequences for the company's growth and workforce since training new employees is costly in terms of both money and time, and it results in the loss of experienced personnel, which has a negative influence on productivity and profit.
